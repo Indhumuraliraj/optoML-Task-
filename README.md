@@ -142,6 +142,6 @@ endmodule
 
 ## Output
 
-![image Alt]
+![image Alt](https://github.com/Indhumuraliraj/optoML-Task-/blob/main/Screenshot%20(90).png)
 
 
